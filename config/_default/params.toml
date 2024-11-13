@@ -142,7 +142,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   websiteid = "e4069485-6e86-476a-8288-2b7c7362f7f9"
   domain = "fookwon.github.io"
   dataDomains = "fookwon.github.io"
-  scriptName = "script.js"
+  # scriptName = "script.js"
   enableTrackEvent = true
 
 [selineAnalytics]
