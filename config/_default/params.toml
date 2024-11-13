@@ -139,22 +139,22 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "e4069485-6e86-476a-8288-2b7c7362f7f9"
+  domain = "fookwon.github.io"
+  dataDomains = "fookwon.github.io"
+  scriptName = "script.js"
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
   # enableTrackEvent = true
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "fookwon6"
+  globalWidget = true
+  globalWidgetMessage = "Hello There ... "
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
