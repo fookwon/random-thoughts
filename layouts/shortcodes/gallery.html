@@ -1,0 +1,9 @@
+{{ $id := delimit (slice "gallery" (partial "functions/uid.html" .)) "-" }}
+{{ $loc := .Get 0 }}
+{{ $cls := .Get 1 }}
+
+<div id="{{ $id }}" class="gallery">
+{{ range .Page.Resources.Match $loc }}
+  <img src="{{ .RelPermalink }}" class="{{ $cls }}"  /> 
+{{ end }}
+</div>
