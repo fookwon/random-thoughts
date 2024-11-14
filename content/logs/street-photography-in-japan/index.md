@@ -5,7 +5,7 @@ date: "2024-11-13T20:16:31+08:00"
 #expiryDate: 2024-10-19
 draft: false
 summary: "Finding My Lens: Capturing Tokyo’s Moments with the Ricoh GR III "
-tags: ["japan", "photography", "street"]
+tags: ["Japan", "Photography", "GR III"]
 ---
 
 ## Finding My Lens: Capturing Tokyo’s Moments with the Ricoh GR III 
