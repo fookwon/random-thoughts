@@ -3,7 +3,6 @@ title: "Capturing the Serene Beauty of Capella Ubud"
 draft: false
 date: "2024-11-14T17:28:55+08:00"
 #expiryDate: 2024-10-19
-draft: false
 summary: "A Connection to Nature at Capella Ubud"
 tags: ["Indonesia", "Photography", "GR III"]
 ---

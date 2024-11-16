@@ -3,7 +3,6 @@ title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 draft: true
 date: "{{ .Date }}"
 #expiryDate: 2024-10-19
-draft: false
 summary: ""
 tags: ["products"]
 ---

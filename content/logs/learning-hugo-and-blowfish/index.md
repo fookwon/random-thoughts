@@ -3,7 +3,6 @@ title: "SSG - Hugo and Blowfish"
 draft: false
 date: "2024-11-15T09:04:54+08:00"
 #expiryDate: 2024-10-19
-draft: false
 summary: "My Learning Journey with Hugo and Blowfish"
 tags: ["hugo", "blowfish", "technology"]
 ---
