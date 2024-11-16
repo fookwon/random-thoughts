@@ -12,7 +12,7 @@ tags: ["imagemagick","technology"]
 Many images contain embedded metadata, such as camera settings, geolocation data, and even editing history. This information can sometimes reveal more than you'd like, especially when sharing images online. Fortunately, ImageMagick can help you remove this metadata to ensure privacy.
 
 ```shell
-mogrify -path /home/fookwon/Downloads/test -strip *.jpg
+mogrify -path $PWD -strip *.jpg
 ```
 
 This would overwrite the existing .jpg files in the same location.
