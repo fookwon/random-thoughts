@@ -1,6 +1,6 @@
 ---
 title: "Perth - A Journey of Nostalgia and Change"
-draft: true
+draft: false
 date: "2024-11-19T19:06:33+08:00"
 #expiryDate: 2024-10-19
 summary: "The memories of my student days, the late-night study sessions, the carefree weekends spent exploring the city, felt like they belonged to someone else. "
