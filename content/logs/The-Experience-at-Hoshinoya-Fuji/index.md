@@ -1,6 +1,6 @@
 ---
 title: "The Experience at Hoshinoya Fuji"
-draft: true
+draft: false
 date: "2024-11-21T18:01:34+08:00"
 #expiryDate: 2024-10-19
 summary: "Search of a getaway that blends nature, luxury, and relaxation with a touch of adventure"
